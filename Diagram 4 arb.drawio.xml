@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2023-08-09T20:04:03.282Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="4GmxJXt-_aimQxKYYtA7" version="21.6.7" type="device">
+  <diagram name="Página-1" id="tiLy34yoB9hPhmgs1aWC">
+    <mxGraphModel dx="880" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="160" y="180" width="847" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-42" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-1" vertex="1">
+          <mxGeometry width="847" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-43" value="Number" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;gradientColor=#7ea6e0;" parent="-zSW2buIwM8FQ2XMAjUl-42" vertex="1">
+          <mxGeometry width="121" height="47" as="geometry">
+            <mxRectangle width="121" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-44" value="stage" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;gradientColor=#7ea6e0;" parent="-zSW2buIwM8FQ2XMAjUl-42" vertex="1">
+          <mxGeometry x="121" width="172" height="47" as="geometry">
+            <mxRectangle width="172" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-45" value="Details" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;gradientColor=#7ea6e0;" parent="-zSW2buIwM8FQ2XMAjUl-42" vertex="1">
+          <mxGeometry x="293" width="193" height="47" as="geometry">
+            <mxRectangle width="193" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-46" value="Information" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;gradientColor=#7ea6e0;" parent="-zSW2buIwM8FQ2XMAjUl-42" vertex="1">
+          <mxGeometry x="486" width="361" height="47" as="geometry">
+            <mxRectangle width="361" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-37" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-1" vertex="1">
+          <mxGeometry y="47" width="847" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-38" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b85450;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;gradientColor=#ea6b66;" parent="-zSW2buIwM8FQ2XMAjUl-37" vertex="1">
+          <mxGeometry width="121" height="47" as="geometry">
+            <mxRectangle width="121" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-39" value="Compile and Run Test" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-37" vertex="1">
+          <mxGeometry x="121" width="172" height="47" as="geometry">
+            <mxRectangle width="172" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-40" value="&lt;a href=&quot;https://github.com/code-423n4/2023-08-arbitrum#tests&quot; style=&quot;box-sizing: border-box; margin-bottom: 0px; text-align: -webkit-left;&quot;&gt;Installation&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-37" vertex="1">
+          <mxGeometry x="293" width="193" height="47" as="geometry">
+            <mxRectangle width="193" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-41" value="The testing and installation structure is straightforward and elegantly designed." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-37" vertex="1">
+          <mxGeometry x="486" width="361" height="47" as="geometry">
+            <mxRectangle width="361" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-32" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-1" vertex="1">
+          <mxGeometry y="94" width="847" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-33" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b85450;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;gradientColor=#ea6b66;" parent="-zSW2buIwM8FQ2XMAjUl-32" vertex="1">
+          <mxGeometry width="121" height="48" as="geometry">
+            <mxRectangle width="121" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-34" value="Architecture Review" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-32" vertex="1">
+          <mxGeometry x="121" width="172" height="48" as="geometry">
+            <mxRectangle width="172" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-35" value="&lt;h1 style=&quot;background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: none; box-sizing: border-box; margin: 0.25em 0px 0.25rem; padding: 0px; vertical-align: baseline; font-family: &amp;quot;Satoshi Variable&amp;quot;, sans-serif; line-height: 68%; text-align: start;&quot; class=&quot;type__headline__xs&quot;&gt;&lt;font style=&quot;font-weight: normal; font-size: 16px;&quot; color=&quot;#000033&quot;&gt;&lt;a href=&quot;https://docs.arbitrum.foundation/dao-constitution&quot;&gt;Arbitum Docs&lt;/a&gt;&lt;/font&gt;&lt;/h1&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-32" vertex="1">
+          <mxGeometry x="293" width="193" height="48" as="geometry">
+            <mxRectangle width="193" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-36" value="Offers a foundational architectural understanding of General Architecture." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-32" vertex="1">
+          <mxGeometry x="486" width="361" height="48" as="geometry">
+            <mxRectangle width="361" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-1" vertex="1">
+          <mxGeometry y="142" width="847" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-28" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b85450;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;gradientColor=#ea6b66;" parent="-zSW2buIwM8FQ2XMAjUl-27" vertex="1">
+          <mxGeometry width="121" height="47" as="geometry">
+            <mxRectangle width="121" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-29" value="Slither Analysis" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-27" vertex="1">
+          <mxGeometry x="121" width="172" height="47" as="geometry">
+            <mxRectangle width="172" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-30" value="&lt;a href=&quot;https://github.com/crytic/slither&quot; style=&quot;box-sizing: border-box; margin-bottom: 0px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; text-align: -webkit-left;&quot;&gt;Slither&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-27" vertex="1">
+          <mxGeometry x="293" width="193" height="47" as="geometry">
+            <mxRectangle width="193" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-31" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-27" vertex="1">
+          <mxGeometry x="486" width="361" height="47" as="geometry">
+            <mxRectangle width="361" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-17" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-1" vertex="1">
+          <mxGeometry y="189" width="847" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-18" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b85450;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;gradientColor=#ea6b66;" parent="-zSW2buIwM8FQ2XMAjUl-17" vertex="1">
+          <mxGeometry width="121" height="47" as="geometry">
+            <mxRectangle width="121" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-19" value="Test Suits" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-17" vertex="1">
+          <mxGeometry x="121" width="172" height="47" as="geometry">
+            <mxRectangle width="172" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-20" value="&lt;a href=&quot;https://github.com/code-423n4/2023-08-arbitrum#tests&quot; style=&quot;box-sizing: border-box; margin-bottom: 0px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; text-align: -webkit-left;&quot;&gt;Tests&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-17" vertex="1">
+          <mxGeometry x="293" width="193" height="47" as="geometry">
+            <mxRectangle width="193" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-21" value="In this section, we delve into the scope and content of the project&#39;s testing procedures." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-17" vertex="1">
+          <mxGeometry x="486" width="361" height="47" as="geometry">
+            <mxRectangle width="361" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-1" vertex="1">
+          <mxGeometry y="236" width="847" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-3" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b85450;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;gradientColor=#ea6b66;" parent="-zSW2buIwM8FQ2XMAjUl-2" vertex="1">
+          <mxGeometry width="121" height="47" as="geometry">
+            <mxRectangle width="121" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-4" value="Manuel Code Review" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-2" vertex="1">
+          <mxGeometry x="121" width="172" height="47" as="geometry">
+            <mxRectangle width="172" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-5" value="&lt;a href=&quot;https://github.com/code-423n4/2023-08-arbitrum#scope&quot; style=&quot;box-sizing: border-box; margin-bottom: 0px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; text-align: -webkit-left;&quot;&gt;Scope&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-2" vertex="1">
+          <mxGeometry x="293" width="193" height="47" as="geometry">
+            <mxRectangle width="193" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-14" value="&lt;p style=&quot;line-height: 20%;&quot;&gt;&lt;br&gt;We examined the scope&lt;br&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-2" vertex="1">
+          <mxGeometry x="486" width="361" height="47" as="geometry">
+            <mxRectangle width="361" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-1" vertex="1">
+          <mxGeometry y="283" width="847" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-7" value="6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b85450;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;gradientColor=#ea6b66;" parent="-zSW2buIwM8FQ2XMAjUl-6" vertex="1">
+          <mxGeometry width="121" height="50" as="geometry">
+            <mxRectangle width="121" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-8" value="Infographic" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-6" vertex="1">
+          <mxGeometry x="121" width="172" height="50" as="geometry">
+            <mxRectangle width="172" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-9" value="&lt;a href=&quot;https://app.diagrams.net/&quot;&gt;Draw.io&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-6" vertex="1">
+          <mxGeometry x="293" width="193" height="50" as="geometry">
+            <mxRectangle width="193" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-6" vertex="1">
+          <mxGeometry x="486" width="361" height="50" as="geometry">
+            <mxRectangle width="361" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-1" vertex="1">
+          <mxGeometry y="333" width="847" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-11" value="7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b85450;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;gradientColor=#ea6b66;" parent="-zSW2buIwM8FQ2XMAjUl-10" vertex="1">
+          <mxGeometry width="121" height="47" as="geometry">
+            <mxRectangle width="121" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-12" value="Special focus on Areas of Concern" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-10" vertex="1">
+          <mxGeometry x="121" width="172" height="47" as="geometry">
+            <mxRectangle width="172" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-13" value="&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji&quot;&gt;&lt;span style=&quot;box-sizing: border-box; text-align: -webkit-left;&quot;&gt;&lt;a href=&quot;https://github.com/code-423n4/2023-08-arbitrum#areas-of-concern&quot;&gt;Areas of Concern&lt;/a&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="-zSW2buIwM8FQ2XMAjUl-10" vertex="1">
+          <mxGeometry x="293" width="193" height="47" as="geometry">
+            <mxRectangle width="193" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-zSW2buIwM8FQ2XMAjUl-16" value="&lt;pre style=&quot;border: none; box-sizing: border-box; margin-top: 2rem; margin-bottom: 2rem; padding: 0.5rem 1rem; width: 1036px; overflow-x: auto; line-height: 125%; border-radius: 0.2rem; background-image: initial !important; background-position: initial !important; background-size: initial !important; background-repeat: initial !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;&quot;&gt;&lt;span style=&quot;background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-width: initial; border-color: initial; border-image: initial; box-sizing: border-box; word-break: break-word;&quot;&gt;areas you would like addressed&lt;/span&gt;&lt;/pre&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=right;" parent="-zSW2buIwM8FQ2XMAjUl-10" vertex="1">
+          <mxGeometry x="486" width="361" height="47" as="geometry">
+            <mxRectangle width="361" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
